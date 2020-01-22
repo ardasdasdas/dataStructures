@@ -50,6 +50,8 @@ int queue::deQueue() {
 
 	return Q[index]; // return the item
 } // end deQueue
+
+
 void queue::display() {
 	if (!isEmpty()) {
 		int j = 1;
