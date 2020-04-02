@@ -1,3 +1,3 @@
-# dataStructures
-# Soft Data Structures which have written by me.
+# Data Structures
+## Soft Data Structures which have written by me.
 
